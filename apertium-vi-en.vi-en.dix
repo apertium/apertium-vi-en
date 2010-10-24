@@ -9,6 +9,10 @@
     <sdef n="sp"/>
     <sdef n="dem"/>
     <sdef n="n"/>
+    <sdef n="adj"/>
+    <sdef n="sint"/>
+    <sdef n="adv"/>
+    <sdef n="preadv"/>
   </sdefs>
   <section id="main" type="standard">
     <e><p><l>mấy<s n="det"/></l><r>some<s n="det"/></r></p></e>
@@ -31,7 +35,15 @@
     <e><p><l>ba<s n="num"/></l><r>three<s n="num"/></r></p></e>
     <e><p><l>là<s n="vbser"/></l><r>be<s n="vbser"/></r></p></e>
     <e><p><l>và<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
-    <e><p><l>xe<s n="n"/></l><r>car<s n="n"/></r></p></e>
+    <e r="LR"><p><l>xe<s n="n"/></l><r>car<s n="n"/></r></p></e>
+    <e r="LR"><p><l>xe<b/>ô<b/>tô<s n="n"/></l><r>car<s n="n"/></r></p></e>
+    <e><p><l>ô<b/>tô<s n="n"/></l><r>car<s n="n"/></r></p></e>
     <e><p><l>bánh<b/>xe<s n="n"/></l><r>wheel<s n="n"/></r></p></e>
+    <e><p><l>xinh<s n="adj"/></l><r>pretty<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>xinh<b/>xinh<s n="adj"/></l><r>cute<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>hơn<s n="adv"/></l><r>more<s n="preadv"/></r></p></e>
+    <e><p><l>bây<b/>giờ<s n="adv"/></l><r>now<s n="adv"/></r></p></e>
+    <e><p><l>ngay<b/>bây<b/>giờ<s n="adv"/></l><r>right<b/>now<s n="adv"/></r></p></e>
+    <e><p><l>hôm<b/>qua<s n="adv"/></l><r>yesterday<s n="adv"/></r></p></e>
   </section>
 </dictionary>

@@ -13,6 +13,8 @@
     <sdef n="n"/>
     <sdef n="vbser"/>
     <sdef n="cnjcoo"/>
+    <sdef n="adj"/>
+    <sdef n="adv"/>
   </sdefs>
   <pardefs>
     <pardef n="các__det">
@@ -87,6 +89,22 @@
         </p>
       </e>
     </pardef>
+    <pardef n="xinh__adj">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="adj"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="hơn__adv">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="adv"/></r>
+        </p>
+      </e>
+    </pardef>
   </pardefs>
 
   <section id="main" type="standard">
@@ -111,6 +129,14 @@
     <e lm="là"><i>là</i><par n="là__vbser"/></e>
     <e lm="và"><i>và</i><par n="và__cnjcoo"/></e>
     <e lm="xe"><i>xe</i><par n="xe__n"/></e>
+    <e lm="xe ô tô"><i>xe<b/>ô<b/>tô</i><par n="xe__n"/></e>
+    <e lm="ô tô"><i>ô<b/>tô</i><par n="xe__n"/></e>
     <e lm="bánh xe"><i>bánh<b/>xe</i><par n="xe__n"/></e>
+    <e lm="xinh"><i>xinh</i><par n="xinh__adj"/></e>
+    <e lm="xinh xinh"><i>xinh<b/>xinh</i><par n="xinh__adj"/></e>
+    <e lm="hơn"><i>hơn</i><par n="hơn__adv"/></e>
+    <e lm="bây giờ"><i>bây<b/>giờ</i><par n="hơn__adv"/></e>
+    <e lm="ngay bây giờ"><i>ngay<b/>bây<b/>giờ</i><par n="hơn__adv"/></e>
+    <e lm="hôm qua"><i>hôm<b/>qua</i><par n="hơn__adv"/></e>
   </section>
 </dictionary>
