@@ -6,6 +6,7 @@
     <sdef n="ind"/>
     <sdef n="qnt"/>
     <sdef n="dem"/>
+    <sdef n="cls"/>
     <sdef n="num"/>
     <sdef n="sg"/>
     <sdef n="sp"/>
@@ -35,6 +36,14 @@
         <p>
           <l></l>
           <r><s n="det"/><s n="dem"/><s n="sp"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="cái__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="cls"/><s n="sp"/></r>
         </p>
       </e>
     </pardef>
@@ -84,6 +93,18 @@
     <e lm="các"><i>các</i><par n="các__det"/></e>
     <e lm="mấy"><i>mấy</i><par n="mấy__det"/></e>
     <e lm="đây"><i>đây</i><par n="đây__det"/></e>
+    <e lm="cái"><i>cái</i><par n="cái__det"/></e>
+    <e lm="con"><i>con</i><par n="cái__det"/></e>
+    <e lm="bài"><i>bài</i><par n="cái__det"/></e>
+    <e lm="cây"><i>cây</i><par n="cái__det"/></e>
+    <e lm="chiếc"><i>chiếc</i><par n="cái__det"/></e>
+    <e lm="tòa"><i>tòa</i><par n="cái__det"/></e>
+    <e lm="quả"><i>quả</i><par n="cái__det"/></e>
+    <e lm="trái"><i>trái</i><par n="cái__det"/></e>
+    <e lm="quyển"><i>quyển</i><par n="cái__det"/></e>
+    <e lm="cuốn"><i>cuốn</i><par n="cái__det"/></e>
+    <e lm="tờ"><i>tờ</i><par n="cái__det"/></e>
+    <e lm="việc"><i>việc</i><par n="cái__det"/></e>
     <e lm="một"><i>một</i><par n="một__num"/></e>
     <e lm="hai"><i>hai</i><par n="hai__num"/></e>
     <e lm="ba"><i>ba</i><par n="hai__num"/></e>
