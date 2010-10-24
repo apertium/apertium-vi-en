@@ -15,6 +15,7 @@
     <sdef n="cnjcoo"/>
     <sdef n="adj"/>
     <sdef n="adv"/>
+    <sdef n="part"/>
   </sdefs>
   <pardefs>
     <pardef n="các__det">
@@ -105,6 +106,14 @@
         </p>
       </e>
     </pardef>
+    <pardef n="sẽ__part">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="part"/></r>
+        </p>
+      </e>
+    </pardef>
   </pardefs>
 
   <section id="main" type="standard">
@@ -127,6 +136,7 @@
     <e lm="hai"><i>hai</i><par n="hai__num"/></e>
     <e lm="ba"><i>ba</i><par n="hai__num"/></e>
     <e lm="là"><i>là</i><par n="là__vbser"/></e>
+    <e lm="sẽ"><i>sẽ</i><par n="sẽ__part"/></e>
     <e lm="và"><i>và</i><par n="và__cnjcoo"/></e>
     <e lm="xe"><i>xe</i><par n="xe__n"/></e>
     <e lm="xe ô tô"><i>xe<b/>ô<b/>tô</i><par n="xe__n"/></e>

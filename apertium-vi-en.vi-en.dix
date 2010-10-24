@@ -13,6 +13,9 @@
     <sdef n="sint"/>
     <sdef n="adv"/>
     <sdef n="preadv"/>
+    <sdef n="part"/>
+    <sdef n="vaux"/>
+    <sdef n="inf"/>
   </sdefs>
   <section id="main" type="standard">
     <e><p><l>mấy<s n="det"/></l><r>some<s n="det"/></r></p></e>
@@ -45,5 +48,6 @@
     <e><p><l>bây<b/>giờ<s n="adv"/></l><r>now<s n="adv"/></r></p></e>
     <e><p><l>ngay<b/>bây<b/>giờ<s n="adv"/></l><r>right<b/>now<s n="adv"/></r></p></e>
     <e><p><l>hôm<b/>qua<s n="adv"/></l><r>yesterday<s n="adv"/></r></p></e>
+    <e><p><l>sẽ<s n="part"/></l><r>will<s n="vaux"/><s n="inf"/></r></p></e>
   </section>
 </dictionary>
