@@ -48,6 +48,8 @@
     <e><p><l>bây<b/>giờ<s n="adv"/></l><r>now<s n="adv"/></r></p></e>
     <e><p><l>ngay<b/>bây<b/>giờ<s n="adv"/></l><r>right<b/>now<s n="adv"/></r></p></e>
     <e><p><l>hôm<b/>qua<s n="adv"/></l><r>yesterday<s n="adv"/></r></p></e>
+    <e><p><l>rồi<s n="adv"/></l><r>already<s n="adv"/></r></p></e>
     <e><p><l>sẽ<s n="part"/></l><r>will<s n="vaux"/><s n="inf"/></r></p></e>
+    <e r="LR"><p><l>đã<s n="part"/></l><r></r></p></e>
   </section>
 </dictionary>

@@ -1,3 +1,4 @@
 * text=auto !eol
 /apertium-vi-en.vi-en.dix -text
+/apertium-vi-en.vi-en.t1x -text
 /apertium-vi-en.vi.dix -text

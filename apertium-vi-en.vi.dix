@@ -137,6 +137,7 @@
     <e lm="ba"><i>ba</i><par n="hai__num"/></e>
     <e lm="là"><i>là</i><par n="là__vbser"/></e>
     <e lm="sẽ"><i>sẽ</i><par n="sẽ__part"/></e>
+    <e lm="đã"><i>đã</i><par n="sẽ__part"/></e>
     <e lm="và"><i>và</i><par n="và__cnjcoo"/></e>
     <e lm="xe"><i>xe</i><par n="xe__n"/></e>
     <e lm="xe ô tô"><i>xe<b/>ô<b/>tô</i><par n="xe__n"/></e>
@@ -145,6 +146,7 @@
     <e lm="xinh"><i>xinh</i><par n="xinh__adj"/></e>
     <e lm="xinh xinh"><i>xinh<b/>xinh</i><par n="xinh__adj"/></e>
     <e lm="hơn"><i>hơn</i><par n="hơn__adv"/></e>
+    <e lm="rồi"><i>rồi</i><par n="hơn__adv"/></e>
     <e lm="bây giờ"><i>bây<b/>giờ</i><par n="hơn__adv"/></e>
     <e lm="ngay bây giờ"><i>ngay<b/>bây<b/>giờ</i><par n="hơn__adv"/></e>
     <e lm="hôm qua"><i>hôm<b/>qua</i><par n="hơn__adv"/></e>
