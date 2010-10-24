@@ -12,6 +12,7 @@
     <sdef n="sp"/>
     <sdef n="n"/>
     <sdef n="vbser"/>
+    <sdef n="vblex"/>
     <sdef n="cnjcoo"/>
     <sdef n="adj"/>
     <sdef n="adv"/>
@@ -71,6 +72,14 @@
         <p>
           <l></l>
           <r><s n="vbser"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="học__vblex">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="vblex"/></r>
         </p>
       </e>
     </pardef>
@@ -136,6 +145,7 @@
     <e lm="hai"><i>hai</i><par n="hai__num"/></e>
     <e lm="ba"><i>ba</i><par n="hai__num"/></e>
     <e lm="là"><i>là</i><par n="là__vbser"/></e>
+    <e lm="học"><i>học</i><par n="học__vblex"/></e>
     <e lm="sẽ"><i>sẽ</i><par n="sẽ__part"/></e>
     <e lm="đã"><i>đã</i><par n="sẽ__part"/></e>
     <e lm="và"><i>và</i><par n="và__cnjcoo"/></e>

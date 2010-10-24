@@ -4,6 +4,7 @@
     <sdef n="det"/>
     <sdef n="num"/>
     <sdef n="vbser"/>
+    <sdef n="vblex"/>
     <sdef n="cnjcoo"/>
     <sdef n="sg"/>
     <sdef n="sp"/>
@@ -51,5 +52,6 @@
     <e><p><l>rồi<s n="adv"/></l><r>already<s n="adv"/></r></p></e>
     <e><p><l>sẽ<s n="part"/></l><r>will<s n="vaux"/><s n="inf"/></r></p></e>
     <e r="LR"><p><l>đã<s n="part"/></l><r></r></p></e>
+    <e><p><l>học<s n="vblex"/></l><r>study<s n="vblex"/></r></p></e>
   </section>
 </dictionary>
